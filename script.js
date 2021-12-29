@@ -10,6 +10,9 @@ document.querySelector("#add").onclick = function() {
                     ${document.querySelector
                     ('#newtask input').value}
                 </span>
+                <button class="delete">
+                    <i class="far fa-trash-alt"></i>
+                </button>
             </div>
         `;
     }
