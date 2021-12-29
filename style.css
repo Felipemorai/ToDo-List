@@ -79,3 +79,13 @@ body {
     box-shadow: 1px 5px 10px rgba(0,0,0,0.15);
     cursor: pointer;
 }
+
+#tasks {
+    background-color: #ffffff;
+    position: relative;
+    padding: 30px 20px;
+    margin-top: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 6px 12px rgba(0,0,0,0.15);
+    width: 100%;
+}
